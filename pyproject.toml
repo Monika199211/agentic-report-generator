@@ -23,7 +23,7 @@ dependencies = [
 
 # Optional: authors, license
 authors = [{ name = "Sunny Savita" }]
-license = "Proprietary"
+license = { text = "Proprietary" }
 
 [tool.setuptools.packages.find]
 where = ["research_and_analyst"]
