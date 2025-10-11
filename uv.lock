@@ -182,7 +182,7 @@ wheels = [
 ]
 
 [[package]]
-name = "automated-research-report-generation"
+name = "automated-research-report-generation-mm"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [

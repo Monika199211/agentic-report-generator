@@ -3,7 +3,7 @@ requires = ["setuptools>=68"]         # PEP 660 editable support ke liye naya se
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "automated-research-report-generation"
+name = "automated-research-report-generation_mm"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -22,7 +22,7 @@ dependencies = [
 ]
 
 # Optional: authors, license
-authors = [{ name = "Sunny Savita" }]
+authors = [{ name = "Monika Badadhe" }]
 license = { text = "Proprietary" }
 
 [tool.setuptools.packages.find]
